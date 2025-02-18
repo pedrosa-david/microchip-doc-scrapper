@@ -163,7 +163,7 @@ def main():
     
     # Run the markdown converter
     print("\nConverting to markdown...")
-    os.system('python html_to_pdf.py')
+    os.system('python json_to_markdown.py')
     
     # Create GitHub-friendly markdown files
     print("\nCreating GitHub-friendly markdown files...")

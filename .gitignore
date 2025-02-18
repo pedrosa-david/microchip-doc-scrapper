@@ -1,0 +1,4 @@
+markdown_output/*
+scraped_content/*
+venv/*
+.cursorrules

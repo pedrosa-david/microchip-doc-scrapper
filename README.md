@@ -1,6 +1,6 @@
 # Microchip Documentation Scraper and Processor
 
-A tool suite for scraping, processing, and organizing Microchip's online documentation into a navigable, hierarchical markdown structure suitable for GitHub hosting. Version X.X.X.
+A tool suite for scraping, processing, and organizing Microchip's online documentation into a navigable, hierarchical markdown structure suitable for GitHub hosting. Version 0.0.1.
 This project has been completely coded using cursor and sonnet, including this readme.
 
 
